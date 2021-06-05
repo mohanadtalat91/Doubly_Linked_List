@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1622813174 source:e:\codes\dll\main.cpp
+	<iostream>
+	"Node.h"
+	"DLL.h"
+
+1622116016 e:\codes\dll\node.h
+
+1622813174 e:\codes\dll\dll.h
+	"Node.h"
+
+1622814363 source:e:\codes\dll\dll.cpp
+	"Node.h"
+	"DLL.h"
+	<iostream>
+	<algorithm>
+	<cmath>
+
+1622116196 source:e:\codes\dll\node.cpp
+	"Node.h"
+	<iostream>
+
